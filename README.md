@@ -1,5 +1,5 @@
 # MLGCN
-Jiang, B., Xu, G. & Liu, P. Aspect-level sentiment classification via location enhanced aspect-merged graph convolutional networks. J Supercomput (2023). https://doi.org/10.1007/s11227-022-05002-4
+Jiang Baoxing, Xu Guangtao & Liu Peiyu Aspect-level sentiment classification via location enhanced aspect-merged graph convolutional networks. J Supercomput (2023). https://doi.org/10.1007/s11227-022-05002-4
 
 ## Requirements
 * Python 3.9
