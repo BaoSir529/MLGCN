@@ -15,7 +15,7 @@ Jiang Baoxing, Xu Guangtao & Liu Peiyu Aspect-level sentiment classification via
 * Download pretrained GloVe embeddings with this [link](http://nlp.stanford.edu/data/wordvecs/glove.840B.300d.zip) and unzip `glove.840B.300d.txt` into `./glove/`.
 * Prepare data for models, run the code [prepare_data.py](./prepare_data.py)
 ```bash
-pthon ./prepare_data.py
+python ./prepare_data.py
 ```
 * If you want to train with Dependency based Location-aware transformation in command, optional arguments could be found in [train_dep.py](/.train_dep.py)
 ```bash
